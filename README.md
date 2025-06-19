@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Développeur Web React | TypeScript<br/>
 🎓 Titre RNCP niveau 5 Développement web (OpenClassrooms, 2024)<br/>
-Réalisations notables 🌟<br/>
+# 🌟 Réalisations notables <br/>
 - Lancement réussi de LangSpace AI, un SaaS de traduction professionnelle, avec des premiers clients B2B<br/>
 - Développement d'un MVP pour un outil de traduction interne pour un client du secteur juridique<br/>
 - Création d'une application e-commerce full-stack avec paiements intégrés<br/>
